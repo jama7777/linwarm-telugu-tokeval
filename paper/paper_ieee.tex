@@ -17,10 +17,10 @@
 
 \begin{document}
 
-\title{Telugu-First TokEval: Small Dedicated Tokenizers Beat Massive\\ Multilingual Vocabularies for Phone-Scale LLMs}
+\title{Linwarm: Telugu-First TokEval --- Small Dedicated Tokenizers Beat Massive\\ Multilingual Vocabularies for Phone-Scale LLMs}
 
 \author{\IEEEauthorblockN{Gottipati Jamadagni}
-\IEEEauthorblockA{\textit{Linwarm} \\ \textit{Hyderabad, India}\\
+\IEEEauthorblockA{\textit{Software Engineer, Unnanu} \\ \textit{Hyderabad, India}\\
 \texttt{jama@unnanu.com}}
 \and
 \IEEEauthorblockN{AI Collaborator (Muse Spark)}
@@ -68,8 +68,11 @@ SentencePiece 0.2.1, character coverage 0.9995, input sentence size 2M, shuffle,
 
 \begin{table}[t]
 \centering
-\caption{Training configurations. *Corpus size measured on disk; training time on M1 Pro laptop.}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\caption{Training configurations. *Corpus size on disk; time on M1 Pro laptop.}
 \label{tab:train}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lccc}
 \toprule
 Config & Vocab & Corpus & Time / Size \\
@@ -81,7 +84,7 @@ te\_uni\_32k & 32K & 80K te & 95s / 1.21 MB \\
 joint\_bpe\_16k & 16K & 60K te+en (24 MB) & 38s / 570 KB \\
 dravidian\_uni\_16k & 16K & 80K dup & 62s / 705 KB \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 \subsection{Baselines}
@@ -105,8 +108,11 @@ Vocab size (16K vs 32K), algorithm (BPE vs Unigram), training mix (Telugu-only v
 
 \begin{table*}[t]
 \centering
+\scriptsize
+\setlength{\tabcolsep}{3pt}
 \caption{Telugu TokEval results sorted by Telugu FLORES fertility (lower better). TE-wiki = 2K real wiki sample (harder). Embedding for 1.7B, hidden 2048, BF16.}
 \label{tab:results}
+\resizebox{\textwidth}{!}{%
 \begin{tabular}{cllrrrrr}
 \toprule
 Rank & Tokenizer & Type & Vocab & TE FLORES & EN FLORES & Parity & TE Wiki \\
@@ -122,7 +128,7 @@ Rank & Tokenizer & Type & Vocab & TE FLORES & EN FLORES & Parity & TE Wiki \\
 9 & Sarvam 262K & MoE-BPE & 262K & 2.48 & 1.19 & 2.08 & 2.79 \\
 10 & tiktoken cl100k & BPE & 100K & 13.57 & 1.14 & 11.90 & 13.89 \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table*}
 
 Table \ref{tab:results} summarizes. Key findings:
@@ -137,7 +143,7 @@ Table \ref{tab:results} summarizes. Key findings:
 
 \paragraph{Normalization negligible on clean wiki} TE 1.77 identical with/without NFC+ZWJ (Brahma finding (i) holds on noisy user input, not clean wiki).
 
-\paragraph{Failure modes (TokEval)} All SentencePiece models split ``12345'' into 2--3 pieces (16K: \texttt{▁12, 3, 45}; 32K: \texttt{▁123, 45}), violating digit place-value alignment that TokEval links to math reasoning. Cause: \texttt{split\_by\_number=true}. UTF-8: \texttt{byte\_fallback=false} risks \texttt{<unk>} on emojis; enable for phone robustness.
+\paragraph{Failure modes (TokEval)} All SentencePiece models split ``12345'' into 2--3 pieces (16K: \texttt{\_12, 3, 45}; 32K: \texttt{\_123, 45}), violating digit place-value alignment that TokEval links to math reasoning. Cause: \texttt{split\_by\_number=true}. UTF-8: \texttt{byte\_fallback=false} risks \texttt{<unk>} on emojis; enable for phone robustness.
 
 \section{Extended Analysis: Compression, Bytes and Phone Deployment}
 
@@ -145,8 +151,11 @@ Beyond fertility, TokEval links compression (chars/token) and bytes/token to bit
 
 \begin{table}[t]
 \centering
-\caption{Compression and byte efficiency on 2K Telugu wiki sample. Higher chars/token and bytes/token = better channel use.}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\caption{Compression and byte efficiency on 2K Telugu wiki sample. Higher chars/token = better channel use.}
 \label{tab:compression}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lcccc}
 \toprule
 Tokenizer & Chars/Tok (TE) & Bytes/Tok (TE) & Chars/Tok (EN) & Embed \\
@@ -159,7 +168,7 @@ joint\_bpe\_16k & 8.14 & 20.02 & 5.84 & 64 MB \\
 Sarvam 262K & 6.71 & 16.42 & 6.12 & 2147 MB \\
 tiktoken & 0.56 & 3.12 & 5.92 & 400 MB \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 \begin{figure}[t]
@@ -171,7 +180,7 @@ tiktoken & 0.56 & 3.12 & 5.92 & 400 MB \\
 
 \paragraph{Phone deployment model} For Linwarm's Hyderabad use case, the relevant budget is not FLOPs but memory and bandwidth. Fig.~\ref{fig:parity} shows the Pareto frontier: dedicated 32K dominates Telugu, joint dominates bilingual. Embedding cost (Table~\ref{tab:compression}) is the decisive factor: 64 MB allows 1.7B Q4\_K\_M ($\approx$0.9 GB weights + 64 MB embed + 128 MB KV cache for 2K context) to fit in 4 GB usable RAM of a 6 GB Android device, sustaining $\approx$18--22 tok/s via \texttt{llama.cpp} with NEON. Sarvam 262K's 2.1 GB embedding alone exceeds budget, requiring FreeToken-style \cite{freetoken2026} offload or cloud fallback. Our 64--128 MB therefore enables the ``different patterns'' paradigm: on-device personalization via QLoRA on the 64 MB embedding plus 5M LoRA params ($\approx$10 MB), feasible to train on phone overnight.
 
-\paragraph{Script and digit insights} Telugu script has 60+ base characters plus complex conjuncts (e.g., ``ksha'', ``tra''); English-centric BPE fragments these into bytes, while Unigram's likelihood objective keeps conjuncts intact. Digit test (``12345'' $\rightarrow$ 2--3 pieces) violates TokEval's place-value integrity; we confirmed \texttt{split\_by\_number=true} causes this, and disabling it merges ``12345'' into one piece at cost of +0.02 fertility on Telugu (ablation, not in Table). UTF-8 integrity: with \texttt{byte\_fallback=false}, rare emojis produce \texttt{<unk>} (0.03\% of wiki lines); enabling fallback fixes at cost of +0.01 fertility.
+\paragraph{Script and digit insights} Telugu script has 60+ base characters plus conjuncts (e.g., ``ksha'', ``tra''); English-centric BPE fragments these into bytes, while Unigram keeps conjuncts intact. Digit test (``12345'' $\rightarrow$ 2--3 pieces) violates TokEval integrity; we confirmed \texttt{split\_by\_number=true} causes this, and disabling merges ``12345'' into one piece at +0.02 fertility cost (ablation). UTF-8: with \texttt{byte\_fallback=false}, rare emojis produce \texttt{<unk>} (0.03\% wiki); enabling fallback fixes at +0.01.
 
 \section{Discussion: Phone-Scale Implications}
 
