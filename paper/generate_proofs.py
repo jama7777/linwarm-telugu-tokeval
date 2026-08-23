@@ -32,7 +32,7 @@ doc = SimpleDocTemplate(str(OUT), pagesize=A4, leftMargin=18*mm, rightMargin=18*
 story = []
 # Cover
 story.append(p("Telugu-First TokEval: Proofs & Verification Pack", title_style))
-story.append(p("Gottipati Jamadagni — Software Engineer, Unnanu, Hyderabad — <a href='mailto:jama@unnanu.com'>jama@unnanu.com</a> &emsp; AI Collaborator (Muse Spark) &emsp; 2026-08-23", ParagraphStyle('Sub', parent=body, fontSize=8, textColor=HexColor("#475569"), alignment=TA_CENTER)))
+story.append(p("Gottipati Jamadagni — Software Engineer, Unnanu, Hyderabad — <a href='mailto:jama.gottipati7@gmail.com'>jama.gottipati7@gmail.com</a> &emsp; AI Collaborator (Muse Spark) &emsp; 2026-08-23", ParagraphStyle('Sub', parent=body, fontSize=8, textColor=HexColor("#475569"), alignment=TA_CENTER)))
 story.append(HRFlowable(width="100%", thickness=1, color=HexColor("#e2e8f0"), spaceAfter=6, spaceBefore=6))
 story.append(p("This companion proves every quantitative claim in the main paper (<i>paper.pdf</i>) via reproducible logs, CSVs, and direct computation. All data is from <b>80K Telugu Wikipedia lines (wikimedia/wikipedia 20231101.te, 36 MB)</b> + <b>FLORES-200 997 parallel sents</b> + baselines <b>tiktoken cl100k, sarvamai/sarvam-30b (262K), Saiteja/telugu-bpe (50K)</b>. No synthetic numbers.", body))
 story.append(p("<b>Artifacts:</b> <font face='Courier' size='7.5'>exp_telugu_tokeval/paper/paper.pdf</font> (main), <font face='Courier' size='7.5'>results/metrics_large.csv</font>, <font face='Courier' size='7.5'>tokenizers/*large.model</font>, <font face='Courier' size='7.5'>train_large.py / run.py</font>. Proofs generated %s IST." % __import__('datetime').datetime.now().strftime("%Y-%m-%d"), mono))
@@ -139,7 +139,7 @@ t2 = Table([[p(f"<font face='Courier' size='7'>{a}</font>", cell_left), p(b, cel
 t2.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, HexColor("#cbd5e1")), ('ROWBACKGROUNDS', (0,0), (-1,-1), [colors.white, HexColor("#f8fafc")]), ('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('LEFTPADDING', (0,0), (-1,-1), 4), ('TOPPADDING', (0,0), (-1,-1), 3)]))
 story.append(t2)
 story.append(Spacer(1, 8))
-story.append(p("Contact: <b>Gottipati Jamadagni</b>, Unnanu, <a href='mailto:jama@unnanu.com'>jama@unnanu.com</a> — Hyderabad, India — Generated 2026-08-23 IST. License: MIT code, CC BY 4.0 paper.", ParagraphStyle('Foot', parent=body, fontSize=7, textColor=HexColor("#64748b"), alignment=TA_CENTER)))
+story.append(p("Contact: <b>Gottipati Jamadagni</b>, Unnanu, <a href='mailto:jama.gottipati7@gmail.com'>jama.gottipati7@gmail.com</a> — Hyderabad, India — Generated 2026-08-23 IST. License: MIT code, CC BY 4.0 paper.", ParagraphStyle('Foot', parent=body, fontSize=7, textColor=HexColor("#64748b"), alignment=TA_CENTER)))
 
 doc.build(story)
 print(f"Built {OUT} {OUT.stat().st_size} bytes")

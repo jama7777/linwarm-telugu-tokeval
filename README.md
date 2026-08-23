@@ -1,6 +1,6 @@
 # Linwarm: Telugu-First TokEval — 8.8x Context Win for Phone-Scale LLMs
 
-**Author:** Gottipati Jamadagni — Software Engineer, **Unnanu** (Model: **Linwarm**) — Hyderabad — jama@unnanu.com  
+**Author:** Gottipati Jamadagni — Software Engineer, **Unnanu** (Model: **Linwarm**) — Hyderabad — jama.gottipati7@gmail.com  
 **With:** AI collaborator Muse Spark  
 **Date:** 2026-08-23  
 **Format:** IEEE Conference (4 pages + references) — `paper/paper_ieee.pdf`
@@ -54,4 +54,4 @@ See `paper/README_PUBLISH.md` — arXiv (cs.CL) now, then COLM/ACL.
 
 ## License
 MIT — tokenizers CC BY 4.0
-Contact: jama@unnanu.com
+Contact: jama.gottipati7@gmail.com

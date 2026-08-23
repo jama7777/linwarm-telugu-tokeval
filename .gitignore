@@ -2,7 +2,9 @@
 __pycache__/
 *.pyc
 *.zip
-# Large corpora - keep sample, ignore full 36MB for git but can add via LFS if needed
-# Uncomment to ignore:
-# data/corpus_te_wiki_full.txt
-# data/corpus_dravidian_large.txt
+# Large corpora (36MB) - not pushed, reproducible via wikimedia/wikipedia
+data/corpus_te_wiki_full.txt
+data/corpus_te_wiki_norm.txt
+data/corpus_dravidian_large.txt
+data/corpus_joint_large.txt
+data/corpus_en_wiki.txt

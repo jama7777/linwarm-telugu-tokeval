@@ -1,7 +1,7 @@
 # Telugu-First TokEval: Small Dedicated Tokenizers Beat Massive Multilingual Vocabularies
 
 **Authors:** Gottipati Jamadagni, Software Engineer, Unnanu (Linwarm model), Hyderabad, India — with AI collaborator (Muse Spark)  
-**Contact:** jama@unnanu.com  
+**Contact:** jama.gottipati7@gmail.com  
 **Date:** 2026-08-23  
 **Preprint target:** arXiv cs.CL — IEEE Conference Format (4 pages, `paper_ieee.pdf`)
 
