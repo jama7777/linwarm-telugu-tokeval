@@ -1,0 +1,997 @@
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}
+{"te": "పెద్ద భాషా నమూనాలు బహుభాషా సామర్థ్యాన్ని కలిగి ఉంటాయి", "en": "Large language models have multilingual capability"}
+{"te": "అజూర్ క్లౌడ్‌లో మోడల్‌ను డిప్లాయ్ చేయడం సులభం", "en": "Deploying a model on Azure cloud is easy"}
+{"te": "ఫోన్‌లో 1 బిలియన్ పారామితుల మోడల్‌ను అమలు చేయవచ్చు", "en": "A 1 billion parameter model can run on a phone"}
+{"te": "తెలుగు భాష చాలా అందమైనది", "en": "Telugu language is very beautiful"}
+{"te": "హైదరాబాద్ భారతదేశంలోని ఒక ప్రధాన నగరం", "en": "Hyderabad is a major city in India"}
+{"te": "కృత్రిమ మేధస్సు ప్రపంచాన్ని మారుస్తోంది", "en": "Artificial intelligence is changing the world"}
+{"te": "టోకనైజేషన్ భాషా నమూనాలకు చాలా ముఖ్యం", "en": "Tokenization is very important for language models"}
+{"te": "మేము తెలుగు కోసం మెరుగైన టోకనైజర్‌ను నిర్మిస్తున్నాము", "en": "We are building a better tokenizer for Telugu"}

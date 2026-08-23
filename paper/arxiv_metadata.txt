@@ -1,0 +1,9 @@
+Title: Telugu-First TokEval: Small Dedicated Tokenizers Beat Massive Multilingual Vocabularies for Phone-Scale LLMs
+Authors: Gottipati Jamadagni (Linwarm, Hyderabad, jama@unnanu.com); AI Collaborator (Muse Spark)
+Category: cs.CL (primary), cs.LG (secondary)
+Abstract:
+Byte-Pair Encoding tokenizers optimized for English incur an 11.9x fertility penalty on Telugu: tiktoken cl100k averages 13.57 tokens/word on Telugu vs 1.14 on English. Massive multilingual vocabularies (Sarvam 262K, Saiteja 50K) partially close the gap to 2.48 and 1.64. We replicate the TokEval suite (Meister et al., COLM 2026) on Telugu using 80K Telugu Wikipedia lines and FLORES-200 997-sentence parallel set. Dedicated SentencePiece BPE/Unigram at 16K/32K achieve 1.55 tokens/word — 8.8x longer effective context than tiktoken and 37% better than Sarvam 262K despite 8x smaller vocabulary. Unigram preserves morphology better. Joint Telugu-English 16K balances parity to 1.34 with 64 MB embedding vs 2.1 GB, fitting phone-scale LLMs. Code and tokenizers released.
+
+Comments: 4 pages IEEE conference, 5 pages with references, 8 tokenizers, code at https://github.com/jama7777/linwarm-telugu-tokeval — IEEE format
+License: CC BY 4.0
+Journal: Preprint, targeting COLM 2027 / ACL Findings

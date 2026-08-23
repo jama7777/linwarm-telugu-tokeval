@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+# Large corpora - keep sample, ignore full 36MB for git but can add via LFS if needed
+# Uncomment to ignore:
+# data/corpus_te_wiki_full.txt
+# data/corpus_dravidian_large.txt
